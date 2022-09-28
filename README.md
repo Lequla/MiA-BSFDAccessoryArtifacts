@@ -77,3 +77,8 @@ How To Install
 - Make sure the file's name is MadeInAbyss-BSFD-WindowsNoEditor_<Anything>_P.pak; with <Anything> being a number, a name or whatever.
 - You're done!
 
+#
+Special thanks to:
+-VETA (DAHONG) ( https://game-4.tistory.com/ )
+-Snowyegret ( https://snowyegret.tistory.com/ )
+
