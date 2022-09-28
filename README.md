@@ -79,6 +79,6 @@ How To Install
 
 #
 Special thanks to:
--VETA (DAHONG) ( https://game-4.tistory.com/ )
--Snowyegret ( https://snowyegret.tistory.com/ )
+- VETA (DAHONG) ( https://game-4.tistory.com/ )
+- Snowyegret ( https://snowyegret.tistory.com/ )
 
