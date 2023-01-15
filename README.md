@@ -22,7 +22,7 @@ Accessory Artifact Items Mod for Made in Abyss: Binary Star Falling into Darknes
 
 #
 3. Guardian's Hallows (High)
-- "It feels like I can win Ottobas in a fistfight!"
+- "It feels like I can beat an Ottobas in a fistfight!"
 - Significantly increase your health and resistance to various hazard.
 - Increase HP about 120 points, adds 35% to Red, Blue, Paralysis poison resistance, and 50% to arm and leg injury resistance.
 - Requires Relic Synthesis (Low Class) skill.
@@ -30,7 +30,7 @@ Accessory Artifact Items Mod for Made in Abyss: Binary Star Falling into Darknes
 
 #
 4. Guardian's Hallows (Special)
-- You feel like become tough like Ozen but that's just a feeling, dont be foolish.
+- You feel like you've become as tough as Ozen but that's just a feeling, dont be foolish.
 - Whoppingly increase your health and resistance to various hazard.
 - Increase HP about 195 points, adds 70% to Red, Blue, Paralysis poison resistance, 85% to arm and leg injury resistance, and 60% to Orb Piercer poison.
 - Requires Relic Synthesis (Mid Class) skill.
@@ -38,7 +38,7 @@ Accessory Artifact Items Mod for Made in Abyss: Binary Star Falling into Darknes
 
 #
 5. Wishful Vigorstone
-- You wouldn't want City of Orth to know about it.
+- You wouldn't want Orth to know about it.
 - Increase satiety efficiency about 75%.
 - Your stamina doesn't run out.
 - Requires Relic Synthesis (High Class) skill.
@@ -62,7 +62,7 @@ Accessory Artifact Items Mod for Made in Abyss: Binary Star Falling into Darknes
 
 #
 8. Idol of Violence (Special)
-- Your power is almost equal to Sovereign of Annihilation from now.
+- Your power rivals the Sovereign of Annihilation.
 - Significantly increase your damage and critical chance.
 - Increase 200 damage and 20% critical chance
 - Requires Relic Synthesis (High Class) skill.
