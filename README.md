@@ -1,5 +1,34 @@
-# MiA-BSFDAccessoryArtifacts
-Accessory Artifact Items Mod for Made in Abyss: Binary Star Falling into Darkness
+MiA-BSFDAccessoryArtifacts
+=============
+   
+-------------
+### Mod made for the game: **Made in Abyss: Binary Star Falling into Darkness**
+Link: [Steam](https://store.steampowered.com/app/1324340/Made_in_Abyss_Binary_Star_Falling_into_Darkness/)   
+#### Updated on 2023-01-18
+#### Current mod version : 1.0.1   
+#### Working with any base game's version : 1.0.1 ~ 1.0.3+   
+ 
+-------------
+## 1. How to install
+
+**1. Navigate to the directory :**   
+[Your game installed directory] \MadeInAbyss-BSFD\MadeInAbyss-BSFD\Content\Paks
+
+**2. Change uploaded pak file's number according to the sequence :**   
+* **Example :**   
+  - 2-1. If there are:      
+**MadeInAbyss-BSFD-WindowsNoEditor.pak**   
+**MadeInAbyss-BSFD-WindowsNoEditor_0_P.pak**   
+... in the folder,   
+  - 2-2. Change Downloaded .pak file name ***(for example right now, this mod.)*** into:   
+**MadeInAbyss-BSFD-WindowsNoEditor_1_P.pak**   
+  - 2-3. Then, put it into the directory mentioned on the instruction number 1.
+
+
+
+-------------
+## 2. Description
+Accessory Artifact Items Mod for Made in Abyss: Binary Star Falling into Darkness   
 
 - Adds 8 new artifacts that can be used as an accessory for each individual whistle rank.
 - All new items recipes are located in Items tab in craft tab menu.
